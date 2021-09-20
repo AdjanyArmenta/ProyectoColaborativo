@@ -1,2 +1,2 @@
 # Trabajo colaborativo
-Este es nuestro proyecto 
+Nosotros somos unos Full Stack developers 😎😎
